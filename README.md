@@ -1,5 +1,5 @@
 # musicplayer.HTML5
-Music Player HTML5, CSS &amp; JavaScript for Android Tablet &amp; Car
+Music Player HTML5, CSS &amp; JavaScript for Android Tablet &amp; Android Car.
 
 How open :
     * On Android OS, install 'Simple HTTP Server' from Google Play, create htdocs folder on Download of internal storage, extract at htdocs, open your local server quran.HTML using your Android browser.
