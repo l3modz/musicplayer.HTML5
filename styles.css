@@ -29,7 +29,7 @@ body {
   margin: 0;
 }
 
-#controls {
+#controlsx {
   display: flex;
   place-items: center;
   justify-content: center;
